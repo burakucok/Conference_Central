@@ -21,7 +21,7 @@ App Engine application for the Udacity training course.
    $ git update-index --assume-unchanged src/main/java/com/google/devrel/training/conference/Constants.java
 1. mvn clean install
 1. Run the application with `mvn appengine:devserver`, and ensure it's running
-   by visiting your local server's  address (by default [localhost:8080][5].)
+   by visiting your local server's  address (by default [localhost:8080][5])
 1. Get the client library with `mvn appengine:endpoints_get_client_lib`
 1. Deploy your application.
 
